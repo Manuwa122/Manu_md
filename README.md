@@ -36,7 +36,8 @@
 
 <br>
 
-[![FORK MANU-MD
+[![FORK MANU-MD  [![Netlify Status](https://api.netlify.com/api/v1/badges/502bb927-7d70-4341-aac7-dfe0552247d1/deploy-status)](https://app.netlify.com/sites/genuine-vacherin-5b869c/deploys)
+
 
  ---
  
