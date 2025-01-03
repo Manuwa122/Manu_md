@@ -48,7 +48,7 @@
 
 ---
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`MANU-MD BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://i.ibb.co/wrFdmmC/8174.jpg" width=80 height=80></a>   
