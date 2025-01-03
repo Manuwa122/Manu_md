@@ -36,7 +36,7 @@
 
 <br>
 
-[![FORK MANU-MD](https://img.shields.io/badge/FORK%20-PRABATHMD-white)](https://github.com/prabathLK/PRABATHMD/fork)
+[![FORK MANU-MD
 
  ---
  
