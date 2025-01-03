@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://www.canva.com/design/DAGbJCuk3wI/Rb2aMLlGLTqedUFqz7rUgg/edit?utm_content=DAGbJCuk3wI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.jpg">
     <img alt="Manu-md" height="300" src="https://www.canva.com/design/DAGbJCuk3wI/Rb2aMLlGLTqedUFqz7rUgg/edit?utm_content=DAGbJCuk3wI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.jpg">
     
   
